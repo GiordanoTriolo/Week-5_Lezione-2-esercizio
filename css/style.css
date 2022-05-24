@@ -1,0 +1,28 @@
+.container{
+    width: 80%;
+    margin: 0 auto;
+    border: 1px solid black;
+}
+
+#shop{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#shop div{
+    width: 25%;
+}
+
+#shop div img{
+    width: 100%;
+}
+
+#shop div h3{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#shop button{
+    margin: 2% 30%;
+    text-align: center;
+}
